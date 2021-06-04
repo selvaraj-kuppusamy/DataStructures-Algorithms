@@ -8,3 +8,6 @@ goto label;
 }
 label:printf("Hello");
 }
+/*
+Output : Hello
+*/
