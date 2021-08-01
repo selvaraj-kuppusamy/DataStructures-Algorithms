@@ -20,12 +20,12 @@ Worst Case:O(1)
 
 The first line contains an integer `n`, the size of array.
 
-The next line contains `n` space-separated integers `a[i]` where 0 ≤ `i` < `n`.
+The next line contains `n` space-separated integers `arr[i]` where 0 ≤ `i` < `n`.
 
 
 ### Output Format
 
-The array `a` in sorted order.
+The array `arr` in sorted order.
 
 
 ### Sample Input
