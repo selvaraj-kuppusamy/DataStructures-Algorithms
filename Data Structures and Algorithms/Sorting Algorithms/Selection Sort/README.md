@@ -1,8 +1,8 @@
-#Selection Sort
+# Selection Sort
 
 A sorting algorithm that repeatedly finds the minimum element from the unsorted sublist and appends it to the end of the sorted sublist.
 
-###Time Complexity
+### Time Complexity
 
 Best Case:Ω(n²)
 
@@ -12,7 +12,7 @@ Worst Case:O(n²)
 
 When n represents the size of the array
 
-###Space Complexity
+### Space Complexity
 
 Worst Case:O(1)
 
