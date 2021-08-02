@@ -2,7 +2,7 @@
 Algorithm: Bubble Sort
 Time: O(n²)
 Space: O(1)
-Author: selvaraj Kuppusamy github.com/selvaraj-kuppusamy
+Author: selvaraj Kuppusamy, github.com/selvaraj-kuppusamy
  */
 #include<iostream>
 using namespace std;
