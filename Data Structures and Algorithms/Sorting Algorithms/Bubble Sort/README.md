@@ -1,4 +1,4 @@
-# Bubble Sort`
+# Bubble Sort
 
 A sorting algorithm that repeatedly compares adjacent pairs and swaps them if they are in the wrong order. It is named for the way smaller or larger elements _bubble_ to the top.
 
