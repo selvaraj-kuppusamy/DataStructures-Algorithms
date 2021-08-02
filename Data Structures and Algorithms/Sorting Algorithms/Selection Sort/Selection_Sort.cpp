@@ -1,6 +1,12 @@
+/*
+Algorithm:Selection Sort
+Time:O(n²)
+Space:O(1)
+Author:Selvaraj Kuppusamy, github/selvaraj-kuppusamy
+ */
 #include<iostream>
 using namespace std;
-void swapping(int &a,int &b)
+void swap(int &a,int &b)
 {
 	int temp;
 	temp=a;
