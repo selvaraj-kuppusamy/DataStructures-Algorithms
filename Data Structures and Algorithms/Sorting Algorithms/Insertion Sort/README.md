@@ -2,7 +2,7 @@
 
 
 A sorting algorithm that builds the final sorted array one at a time. When people sort playing cards, most use a method similar to insertion sort.
-In insertion sort,values from the unsorted part are picked and inserted at the correct position in the sorted part
+In insertion sort,values from the unsorted part are picked and inserted at the correct position in the sorted part.
 
 
 ### Time Complexity
