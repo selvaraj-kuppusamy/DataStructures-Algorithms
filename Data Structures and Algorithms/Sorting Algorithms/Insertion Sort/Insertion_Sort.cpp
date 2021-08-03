@@ -1,3 +1,9 @@
+/*
+Algorithm: Insertion Sort
+Time: O(n²)
+Space: O(1)
+Author: Selvaraj Kuppusamy, github.com/selvaraj-kuppusamy
+*/
 #include<iostream>
 using namespace std;
 
