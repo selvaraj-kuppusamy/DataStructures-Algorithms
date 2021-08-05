@@ -40,3 +40,9 @@ The array `arr` in sorted order.
 5 3 1 2 4
 ```
 
+### Sample Output
+
+```
+1 2 3 4 5
+```
+
