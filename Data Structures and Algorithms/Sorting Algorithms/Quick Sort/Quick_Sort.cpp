@@ -1,3 +1,10 @@
+/*
+Algorithm: Quick Sort
+Time: O(n²)
+Space: O(log n)
+Author: Selvaraj Kuppusamy, github.com/selvaraj-kuppusamy
+*/
+
 #include <iostream>
 using namespace std;
 void display(int *array, int n)
